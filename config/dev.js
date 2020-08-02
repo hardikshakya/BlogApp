@@ -4,5 +4,8 @@ module.exports = {
   googleClientSecret: '<add your google client secret>',
   mongoURI: '<mongo db path to blog_dev database>',
   cookieKey: '123123123',
-  redisUrl: 'redis://127.0.0.1:6379'
+  redisUrl: 'redis://127.0.0.1:6379',
+  accessKeyId: '<aws user access key>',
+  secretAccessKey: '<aws user secret key>',
+  region: '<your bucket region>'
 };

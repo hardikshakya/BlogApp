@@ -1,4 +1,4 @@
-# AdvancedNodeStarter-blog-app
+# BlogApp
 
 ## Project Setup
 
